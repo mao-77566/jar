@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:26:44 SGT 2020
+http\://192.168.1.80\:8081/repository/vadp-releases/.error=
+http\://192.168.1.80\:8081/repository/oes-releases/.error=
+http\://172.16.163.52\:8081/nexus/content/groups/public/.lastUpdated=1608258404009
+http\://192.168.1.80\:8081/repository/vadp-releases/.lastUpdated=1576049423487
+http\://192.168.1.80\:8081/repository/maven-public/.lastUpdated=1576049423904
+http\://192.168.1.80\:8081/repository/oes-releases/.lastUpdated=1576049423597
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1592899195347

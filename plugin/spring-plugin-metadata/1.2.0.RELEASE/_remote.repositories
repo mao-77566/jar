@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 11:10:23 SGT 2020
+spring-plugin-metadata-1.2.0.RELEASE-sources.jar>nexus-releases=
+spring-plugin-metadata-1.2.0.RELEASE.jar>central=
+spring-plugin-metadata-1.2.0.RELEASE-sources.jar>alimaven=
+spring-plugin-metadata-1.2.0.RELEASE.jar>alimaven=
+spring-plugin-metadata-1.2.0.RELEASE-sources.jar>viewhigh=
+spring-plugin-metadata-1.2.0.RELEASE.pom>nexus-releases=
+spring-plugin-metadata-1.2.0.RELEASE-javadoc.jar>nexus-releases=
+spring-plugin-metadata-1.2.0.RELEASE.pom>alimaven=
+spring-plugin-metadata-1.2.0.RELEASE.pom>viewhigh=
+spring-plugin-metadata-1.2.0.RELEASE.pom>central=
+spring-plugin-metadata-1.2.0.RELEASE-javadoc.jar>alimaven=
+spring-plugin-metadata-1.2.0.RELEASE.jar>nexus-releases=
+spring-plugin-metadata-1.2.0.RELEASE.jar>viewhigh=
