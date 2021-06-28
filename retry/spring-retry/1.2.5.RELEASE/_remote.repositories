@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 23 10:25:55 SGT 2020
+spring-retry-1.2.5.RELEASE.jar>nexus-releases=
+spring-retry-1.2.5.RELEASE.jar>central=
+spring-retry-1.2.5.RELEASE.pom>central=
+spring-retry-1.2.5.RELEASE.pom>alimaven=
+spring-retry-1.2.5.RELEASE.jar>alimaven=
+spring-retry-1.2.5.RELEASE.pom>nexus-releases=
